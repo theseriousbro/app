@@ -64,7 +64,7 @@ Directus is an open-source suite of software for managing content in projects of
 
 ### Open-Source Support
 
-For help with open-source instances please post questions with the `directus` tag on [Stack Overflow](https://stackoverflow.com/questions/tagged/directus).
+For help with open-source instances please post questions with the `directus` tag on [Stack Overflow](https://stackoverflow.com/questions/tagged/directus). 
 
 ### Premium Support
 
